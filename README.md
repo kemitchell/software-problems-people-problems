@@ -10,6 +10,6 @@ Relationships connect people to problems.
 
 Without relationships, we face our problems alone.
 
-Adoption is a relationship with a piece software, not a person.
+Adoption is use of software, not a relationship with a person.
 
-But the purpose of software is to create relationships between people with common needs, so they can solve their problems together.
+But software create relationships between people with common problems, so they can solve them together.
